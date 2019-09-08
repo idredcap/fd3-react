@@ -12,7 +12,7 @@ In Semptember 2019 I started the course "React and Angular for web application d
 - **Time:** 100 hours of study & 100 hours homework;
 
 ## Tasks
-**1.** [**Internet-Shop**](https://github.com/idredcap/fd3-react/tree/master/0_ishop) (2019.09.08)
+1. [**Internet-Shop**](https://github.com/idredcap/fd3-react/tree/master/0_ishop) (2019.09.08)
    - one React-component;
    - list of products in the array;
    - component gets the list of products and the name of the store through the props;
