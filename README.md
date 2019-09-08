@@ -7,7 +7,7 @@ In Semptember 2019 I started the course "React and Angular for web application d
 - **Type:** Distance learning;
 - **Time:** 100 hours of study & 100 hours homework;
 
-# Tasks
+## Tasks
 **1.** **Internet-Shop** (2019.09.08)
    - one React-component;
    - list of products in the array;
