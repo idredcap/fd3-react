@@ -1,6 +1,6 @@
 # ReactJS study course
 
-[Decription](#description)  
+[Description](#description)  
 [Tasks](#tasks)  
 [Materials](#materials)
 
