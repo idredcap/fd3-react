@@ -2,10 +2,6 @@
 
   displayName: 'InternetShop',
 
-  getDefaultProps: function() {
-    return { question: "Вопрос ни о чём" }
-  },
-
   render: function() {
 
     let items = [];
@@ -32,8 +28,10 @@
     return React.DOM.div({ className:'shop' }, 
       React.DOM.h1({ className: 'shop__name' }, this.props.shopName),
       React.DOM.table({ className: 'shop__table' },
-        React.DOM.tr({ className: 'shop__header' }, headers),
-        items,
+        React.DOM.tbody({ className: 'shop__tbody' },
+          React.DOM.tr({ className: 'shop__header' }, headers),
+          items,
+        )
       ),
     );
   },
