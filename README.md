@@ -12,12 +12,16 @@ In Semptember 2019 I started the course "React and Angular for web application d
 - **Time:** 100 hours of study & 100 hours homework;
 
 ## Tasks
-1. [Internet-Shop](https://github.com/idredcap/fd3-react/tree/master/0_ishop) (2019.09.08)
+1. [Internet-Shop](https://github.com/idredcap/fd3-react/tree/master/00_ishop) (08.09.2019)
    - one React-component;
    - list of products in the array;
    - component gets the list of products and the name of the store through the props;
    - use array methods from ES6 (forEach or map).
-
+2. [Filter](https://github.com/idredcap/fd3-react/tree/master/01_filter) (22.09.2019)
+   - an array of strings is passed to the component (scrollable block);
+   - checkbox sorts the result;
+   - input filters the result;
+   - button cleans sorting and filters.
 
 ## Materials
 - [Docs](https://reactjs.org/docs/hello-world.html)

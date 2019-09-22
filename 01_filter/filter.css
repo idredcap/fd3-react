@@ -1,0 +1,41 @@
+﻿@import url("../styles/default.css");
+
+.filter {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.filter__wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.filter__inputs {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.filter__checkbox {
+  margin: 8px;
+}
+
+.filter__input {
+  padding: 8px;
+  margin-right: 8px;
+}
+
+.filter__button {
+  padding: 8px;
+}
+
+.filter__texts {
+  display: flex;
+  flex-direction: column;
+  height: 150px;
+  overflow: auto;
+  border: 1px solid #999;
+}
